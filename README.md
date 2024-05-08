@@ -42,6 +42,16 @@ We welcome contributions from the community! If you're interested in contributin
 
 
 
+![image](https://github.com/JayaPradhi/Digital-Pharmacy-Assistant/assets/127920413/6f9a31a8-b4ea-4396-bb91-dfd5cab1fdb1)
+
+
+
+![Uploading image.png…]()
+
+
+
+
+
 ---
 
 Feel free to reach out with any questions or feedback. Let's revolutionize pharmacy interactions together! 💊🤖
