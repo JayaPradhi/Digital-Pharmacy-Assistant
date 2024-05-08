@@ -43,7 +43,9 @@ To get started with our Pharmacy Order Chatbot, follow these steps:
 
 
 
+
 ![Uploading image.png…]()
+
 
 
 
