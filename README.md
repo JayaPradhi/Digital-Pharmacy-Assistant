@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to our Pharmacy Order Chatbot project! This chatbot is designed to streamline the process of managing your health needs by allowing you to place orders and track their status seamlessly. Leveraging the power of Dialogflow, our chatbot offers two main functionalities:
+Welcome to MY Pharmacy Order Chatbot project! This chatbot is designed to  process of managing your health needs by allowing you to place orders and track their status seamlessly. Leveraging the power of Dialogflow, our chatbot offers two main functionalities:
 
 - **New Order Intent:** Place your orders effortlessly with an intuitive chat interface.
 - **Track Intent:** Keep tabs on your order status in real-time.
@@ -25,9 +25,6 @@ To get started with our Pharmacy Order Chatbot, follow these steps:
 4. Customize the frontend interface using HTML and CSS.
 5. Deploy the chatbot and start placing orders!
 
-## Contribution Guidelines
-
-We welcome contributions from the community! If you're interested in contributing to our project, please refer to our [Contribution Guidelines](CONTRIBUTING.md) for more information.
 
 ## INTENTS
 
