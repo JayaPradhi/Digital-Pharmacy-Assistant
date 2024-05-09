@@ -1,29 +1,18 @@
-# Pharmacy Order Chatbot
+I led the development of a cutting-edge Pharmacy Order Chatbot, aimed at simplifying how users manage their health needs. This innovative chatbot, powered by Dialogflow, offers two key features:
 
-## Overview
+New Order Intent: Seamlessly place orders with a user-friendly chat interface.
+Track Intent: Stay updated on order status in real-time.
+Tech Stack:
+I spearheaded the implementation of a robust tech stack to ensure optimal performance:
 
-Welcome to MY Pharmacy Order Chatbot project! This chatbot is designed to  process of managing your health needs by allowing you to place orders and track their status seamlessly. Leveraging the power of Dialogflow, our chatbot offers two main functionalities:
+Backend: Leveraged FastAPI for efficient backend processing.
+Database: Utilized SQL for secure storage of order and tracking data.
+Frontend: Designed a custom interface using HTML and CSS for enhanced user experience.
+Achievements:
 
-- **New Order Intent:** Place your orders effortlessly with an intuitive chat interface.
-- **Track Intent:** Keep tabs on your order status in real-time.
-
-## Tech Stack
-
-Our project utilizes a robust tech stack to ensure efficient performance:
-
-- **Backend:** FastAPI for handling backend processes.
-- **Database:** SQL for secure storage of order and tracking information.
-- **Frontend:** Custom-designed interface using HTML and CSS for a user-friendly experience.
-
-## Getting Started
-
-To get started with our Pharmacy Order Chatbot, follow these steps:
-
-1. Clone the repository.
-2. Set up the backend using FastAPI.
-3. Configure the SQL database for storing order and tracking information.
-4. Customize the frontend interface using HTML and CSS.
-5. Deploy the chatbot and start placing orders!
+Successfully deployed the chatbot, enhancing customer convenience and satisfaction.
+Implemented features for easy order placement and real-time order tracking.
+Collaborated with a cross-functional team to ensure seamless integration of backend and frontend components.
 
 
 ## INTENTS
@@ -32,19 +21,21 @@ To get started with our Pharmacy Order Chatbot, follow these steps:
 ![image](https://github.com/JayaPradhi/Digital-Pharmacy-Assistant/assets/127920413/8e49c9f3-f3a3-405f-8e60-e2d3cf7a32c5)
 
 
-##ENTITIES
+## ENTITIES
 
 
 ![image](https://github.com/JayaPradhi/Digital-Pharmacy-Assistant/assets/127920413/b758a5fe-4965-44ce-b666-54d95a0d62bd)
 
 
 
-![image](https://github.com/JayaPradhi/Digital-Pharmacy-Assistant/assets/127920413/6f9a31a8-b4ea-4396-bb91-dfd5cab1fdb1)
+![Screenshot 2024-05-07 182656](https://github.com/JayaPradhi/Digital-Pharmacy-Assistant/assets/127920413/fca73271-cc02-48a7-9df8-f194a3200bba)
 
 
 
+![image](https://github.com/JayaPradhi/Digital-Pharmacy-Assistant/assets/127920413/5bad9c7f-cad1-4a26-98b1-b6432714d09c)
 
-![Uploading image.png…]()
+
+
 
 
 
